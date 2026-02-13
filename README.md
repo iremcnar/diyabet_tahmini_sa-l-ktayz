@@ -32,11 +32,5 @@ Proje sonunda modellerin performansları karşılaştırılmış ve sağlık ver
 - `diyabet_tahmini_uyg1.ipynb`: Proje kodlarını ve analizleri içeren Jupyter Notebook dosyası.
 - `diabetes.csv`: Kaggle üzerinden temin edilen Pima Indians Diabetes veri seti.
 
-## 🎓 Akademik Not
-Bu çalışma, üniversite eğitim sürecindeki **Sağlıkta Yapay Zeka** dersinde hazırlanmıştır.
 
----
 
-**Hazırlayan:** İrem  
-**Bölüm:** Bilişim Sistemleri Mühendisliği  
-**Üniversite:** Burdur Mehmet Akif Ersoy Üniversitesi
